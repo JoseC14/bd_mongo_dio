@@ -2,7 +2,7 @@ import pprint
 
 import pymongo as pyM
 
-uri = "mongodb+srv://JoseC:sakaki500@cluster0.ih675io.mongodb.net/?retryWrites=true&w=majority"
+uri = "mongodb+srv://JoseC:xxxxx@cluster0.ih675io.mongodb.net/?retryWrites=true&w=majority"
 
 client = pyM.MongoClient(uri)
 
